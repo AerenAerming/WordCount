@@ -1,0 +1,2 @@
+C:\Users\nizec\Desktop\软工基础\WordCount\Debug\WordCount.exe
+C:\Users\nizec\Desktop\软工基础\WordCount\Debug\WordCount.pdb
